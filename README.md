@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Iffarur Rahat</h1>
 <p align="center">I am eager to secure a challenging position in a respected organization, where I can leverage my technical, database, and management skills to contribute to the organization's growth.</p>
 
+## 📈 Current Stats
+
 <p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iffarurrahat&" alt="iffarurrahat" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
-##Current overview
+## Current overview
 
 ### 🌱 I’m currently learning **React, Firebase, Node JS, Express JS, MongoDB**
 
