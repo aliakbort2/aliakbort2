@@ -5,7 +5,7 @@
 
 ## 📈 Current Stats
 
-<p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iffarurrahat&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0ABC81&sideLabels=29903B&currStreakNum=0ABC81&ring=0ABC81&currStreakLabel=0ABC81&sideNums=29903B" alt="iffarurrahat" /></p>
+<p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iffarurrahat&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0ABC81&sideLabels=0ABC81&currStreakNum=0ABC81&ring=0ABC81&currStreakLabel=0ABC81&sideNums=01795C" alt="iffarurrahat" /></p>
 
 ## :computer: Languages and Tools:
 
