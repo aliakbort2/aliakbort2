@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/YLGJwxk/Cycode-Git-Hub-Permissions-for-Maximum-Security.png)
+![logo](https://github.com/iffarurrahat/iffarurrahat/blob/main/images/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Iffarur Rahat</h1>
 <p align="center">I am eager to secure a challenging position in a respected organization, <br/>  where I can leverage my technical, database, and management skills to contribute to the organization's growth.</p>
