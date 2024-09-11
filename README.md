@@ -31,16 +31,6 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
-<!--  -->
-
-[![<img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">]]
-
-[![](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=abdulmazidakash&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--  -->
-
 - 🌱 I’m currently learning **React, Firebase, Node JS, Express JS, MongoDB**
 
 - 📫 How to reach me **contact.akbor@gmail.com**
