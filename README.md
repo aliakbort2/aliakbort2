@@ -33,9 +33,9 @@
 
 - ♨ Check out my portfolio **[https://ali-akbor-titu.surge.sh/](https://ali-akbor-titu.surge.sh/)**
 
-- 💬 Talk to me about **Html, CSS, JavaScript, React, Node Js, MongoDB**
+- 💬 Talk to me about **Html, CSS, JavaScript, React**
 
-- 🌱 I’m currently learning **Node JS, Express JS, MongoDB, Redux**
+- 🌱 I’m currently learning **Node, Express, MongoDB**
 
 - 📫 How to reach me **iffarurrahat@gmail.com**
 
