@@ -31,7 +31,11 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
-- 🌱 I’m currently learning **React, Firebase, Node JS, Express JS, MongoDB**
+- ♨ Check out my portfolio **[https://ali-akbor-titu.surge.sh/](https://ali-akbor-titu.surge.sh/)**
+
+- 💬 Talk to me about **Html, CSS, JavaScript, React, Node Js, MongoDB**
+
+- 🌱 I’m currently learning **Node JS, Express JS, MongoDB, Redux**
 
 - 📫 How to reach me **iffarurrahat@gmail.com**
 
