@@ -31,7 +31,7 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
-- ♨ Check out my portfolio **[https://ali-akbor-titu.surge.sh/](https://ali-akbor-titu.surge.sh/)**
+- ♨ Check out my portfolio **[https://ali-akbor-titu.surge.sh/](https://ali-akbor-titu.surge.sh)**
 
 - 💬 Talk to me about **Html, CSS, JavaScript, React**
 
