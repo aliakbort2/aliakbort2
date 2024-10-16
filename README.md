@@ -37,6 +37,6 @@
 
 - 🌱 I’m currently learning **Node, Express, MongoDB**
 
-- 📫 How to reach me **iffarurrahat@gmail.com**
+- 📫 How to reach me **contact.akbor@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18KsX0zFkIpayxlRSN0ULPw3AS4XICCZf/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1a9Vqk5Mskn-wjUa5QA14g3PtW42e6eJm/view?usp=sharing)
