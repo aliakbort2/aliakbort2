@@ -39,4 +39,4 @@
 
 - 📫 How to reach me **iffarurrahat@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1W6oDot-dxVgw93TUL67P3wBXqPlVf2DstrlroM6yP1o/edit?usp=sharing](https://docs.google.com/document/d/1W6oDot-dxVgw93TUL67P3wBXqPlVf2DstrlroM6yP1o/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18KsX0zFkIpayxlRSN0ULPw3AS4XICCZf/view?usp=drive_link)
