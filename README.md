@@ -5,7 +5,7 @@
 
 ## 📈 Current Stats
 
-<p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iffarurrahat&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0ABC81&sideLabels=0ABC81&currStreakNum=0ABC81&ring=0ABC81&currStreakLabel=0ABC81&sideNums=01795C" alt="aliakbort2" /></p>
+<p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliakbort2&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0ABC81&sideLabels=0ABC81&currStreakNum=0ABC81&ring=0ABC81&currStreakLabel=0ABC81&sideNums=01795C" alt="aliakbort2" /></p>
 
 ## :computer: Languages and Tools:
 
@@ -27,8 +27,8 @@
 
 ##
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakbort2&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbort2" /> </p>
- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p> -->
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakbort2&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbort2" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
