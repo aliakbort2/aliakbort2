@@ -10,19 +10,19 @@
 ## :computer: Languages and Tools:
 
 <p align="center">
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/css.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/figma.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/css.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/figma.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/react.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/node.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/express.png"/>
-<img src="https://github.com/iffarurrahat/iffarurrahat/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/react.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/node.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/express.png"/>
+<img src="https://github.com/aliakbort2/aliakbort2/blob/main/images/icons/mongo.png"/>
 </p>
 
 ##
@@ -39,4 +39,4 @@
 
 - 📫 How to reach me **contact.akbor@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1a9Vqk5Mskn-wjUa5QA14g3PtW42e6eJm/view?usp=sharing)
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1a9Vqk5Mskn-wjUa5QA14g3PtW42e6eJm/view?usp=sharing)**
