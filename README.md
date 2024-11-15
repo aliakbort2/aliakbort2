@@ -1,11 +1,11 @@
-![logo](https://github.com/iffarurrahat/iffarurrahat/blob/main/images/banner.jpg)
+![logo](https://github.com/aliakbort2/aliakbort2/blob/main/images/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Ali Akbor Titu</h1>
 <p align="center">I am eager to secure a Junior Frontend Developer position in a respected organization, <br/> where I can leverage my skills in React.js, Firebase, Node.js with Express, and MongoDB <br/> to create impactful and user-friendly applications, contributing to the organization's growth.</p>
 
 ## 📈 Current Stats
 
-<p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iffarurrahat&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0ABC81&sideLabels=0ABC81&currStreakNum=0ABC81&ring=0ABC81&currStreakLabel=0ABC81&sideNums=01795C" alt="iffarurrahat" /></p>
+<p img align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iffarurrahat&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0ABC81&sideLabels=0ABC81&currStreakNum=0ABC81&ring=0ABC81&currStreakLabel=0ABC81&sideNums=01795C" alt="aliakbort2" /></p>
 
 ## :computer: Languages and Tools:
 
@@ -27,7 +27,8 @@
 
 ##
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakbort2&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbort2" /> </p>
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p> -->
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
