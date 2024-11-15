@@ -1,6 +1,6 @@
 ![logo](https://github.com/iffarurrahat/iffarurrahat/blob/main/images/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Iffarur Rahat</h1>
+<h1 align="center">Hi 👋, I'm Ali Akbor Titu</h1>
 <p align="center">I am eager to secure a Junior Frontend Developer position in a respected organization, <br/> where I can leverage my skills in React.js, Firebase, Node.js with Express, and MongoDB <br/> to create impactful and user-friendly applications, contributing to the organization's growth.</p>
 
 ## 📈 Current Stats
@@ -35,7 +35,7 @@
 
 - 💬 Talk to me about **Html, CSS, JavaScript, React**
 
-- 🌱 I’m currently learning **Node, Express, MongoDB**
+- 🌱 I’m currently learning **Node, Express, MongoDB, Next.js**
 
 - 📫 How to reach me **contact.akbor@gmail.com**
 
