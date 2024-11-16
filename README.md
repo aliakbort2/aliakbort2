@@ -28,7 +28,6 @@
 
 ##
 
- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakbort2&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbort2" /> </p> -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
@@ -41,4 +40,4 @@
 
 - 📫 How to reach me **contact.akbor@gmail.com**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1a9Vqk5Mskn-wjUa5QA14g3PtW42e6eJm/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1UqVlrrjSPLBoK-l1VhmqJIo1ZB9g4f8Q/view?usp=sharing)**
