@@ -28,7 +28,10 @@
 
 ##
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> </p>
+ <p align="left">
+ <img width="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+ <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> 
+ </p>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="github">
 
@@ -36,8 +39,8 @@
 
 - 💬 Talk to me about **Html, CSS, JavaScript, React**
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, Next.js**
+- 🌱 I’m currently learning **Node, Express, MongoDB, NextJS**
 
 - 📫 How to reach me **contact.akbor@gmail.com**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1UqVlrrjSPLBoK-l1VhmqJIo1ZB9g4f8Q/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/19mPxVT2m4hSKjo1o3z_axgm8uY3gVeFr/view?usp=sharing)**
