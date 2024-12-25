@@ -1,7 +1,7 @@
 ![logo](https://github.com/aliakbort2/aliakbort2/blob/main/images/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Ali Akbor Titu</h1>
-<p align="center">I am eager to secure a Junior Frontend Developer position in a respected organization, <br/> where I can leverage my skills in React.js, Firebase, Node.js with Express, and MongoDB <br/> to create impactful and user-friendly applications, contributing to the organization's growth.</p>
+<p align="center">I am passionate about securing a Frontend Developer position in a respected organization, <br/> where I can leverage my skills in React.js, Firebase, Node.js with Express, and MongoDB <br/> to build impactful, user-friendly applications while contributing to the organization’s success.</p>
 
 ## 📈 Current Stats
 
@@ -29,7 +29,7 @@
 ##
 
  <p align="left">
- <img width="60" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+ <img width="50" src="https://github.com/aliakbort2/aliakbort2/blob/main/images/kyubey.gif"/> 
  <img src="https://komarev.com/ghpvc/?username=iffarurrahat&label=Profile%20views&color=0e75b6&style=flat" alt="iffarurrahat" /> 
  </p>
 
